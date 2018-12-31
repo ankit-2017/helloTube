@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "326343976017",
+    "firebase_url": "https://login-7cb87.firebaseio.com",
+    "project_id": "login-7cb87",
+    "storage_bucket": "login-7cb87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326343976017:android:5f898d81d24ed3f3",
+        "android_client_info": {
+          "package_name": "com.googledrive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "326343976017-40jec2qbdrshb6ju0j2ameos97k38qc8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.googledrive",
+            "certificate_hash": "c8ad26e810ac11af0efcd2d848a3cfe06584f3c6"
+          }
+        },
+        {
+          "client_id": "326343976017-38ks5c7rtddq0soqbkj5fkcqv7ib3t6s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.googledrive",
+            "certificate_hash": "f19711166a749591543f82b8131d971dcd8a97f1"
+          }
+        },
+        {
+          "client_id": "326343976017-7rdfkm2ivjphkshstlnvc8jcd1hq61or.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2Qp5q0_6USYxvcX-_e1gtJX08uE-6Qyk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "326343976017-7rdfkm2ivjphkshstlnvc8jcd1hq61or.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
